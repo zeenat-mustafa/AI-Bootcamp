@@ -3,6 +3,7 @@
 **/flowers/
 **/self-driving-cars/
 **/runs/
+**.pth
 
 # Ignore all lecture slides and presentations
 *.pptx
