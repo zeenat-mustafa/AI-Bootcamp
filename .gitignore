@@ -1,4 +1,8 @@
 .ipynb_checkpoints/
+**.json
+**/flowers/
+**/self-driving-cars/
+**/runs/
 
 # Ignore all lecture slides and presentations
 *.pptx
@@ -7,3 +11,4 @@
 
 # Ignore compressed assignment archives
 *.zip
+*.gz
